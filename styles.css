@@ -1,0 +1,40 @@
+@charset "utf-8";
+#Home div h1 {
+	text-align: center;
+	background-color: #222222;
+	color: #FDFDFD;
+}
+body div {
+	text-align: center;
+	background-color: #909090;
+	color: #000000;
+}
+
+body div h1 {
+	background-color: #242424;
+	color: #FBFBFB;
+	text-align: center;
+}
+
+#Home div Content {
+	background-color: #424242;
+}
+#Home div {
+	text-align: center;
+
+}
+
+
+
+#Home div footer {
+	text-align: center;
+	color: #F9F9F9;
+	background-color: #222222;
+}
+#Home div input {
+}
+#Home div img {
+}
+#Home {
+	font-size: x-small;
+}
